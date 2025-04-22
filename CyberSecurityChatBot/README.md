@@ -28,7 +28,7 @@ CyberSecurityChatBot/
 ├── Program.cs
 ├── ConsoleUI.cs
 ├── CyberSecurityChatBot.csproj
-├── README.md
-└── .github/
-└── workflows/
+|── README.md
+
+
 └── dotnet.yml
